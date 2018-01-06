@@ -1,3 +1,3 @@
 # irrigationproject
 
-Starting a new irrigation project for irrigation from windows
+Starting a new irrigation project for irrigation from Linux
